@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-07T00:21:20 EST" name="Amazon Test" finished-at="2023-01-07T00:21:28 EST" duration-ms="7980">
+    <groups>
+    </groups>
+    <test started-at="2023-01-07T00:21:20 EST" name="Amazon tests" finished-at="2023-01-07T00:21:28 EST" duration-ms="7980">
+      <class name="test.TestLogin">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:test.TestLogin@60641ec8]" started-at="2023-01-07T00:21:20 EST" name="setup" finished-at="2023-01-07T00:21:26 EST" duration-ms="6173" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.amazon.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidEmailAddress()[pri:0, instance:test.TestLogin@60641ec8]" started-at="2023-01-07T00:21:26 EST" name="invalidEmailAddress" finished-at="2023-01-07T00:21:28 EST" duration-ms="1637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailAddress -->
+        <test-method is-config="true" signature="shutBrowser()[pri:0, instance:test.TestLogin@60641ec8]" started-at="2023-01-07T00:21:28 EST" name="shutBrowser" finished-at="2023-01-07T00:21:28 EST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutBrowser -->
+      </class> <!-- test.TestLogin -->
+    </test> <!-- Amazon tests -->
+  </suite> <!-- Amazon Test -->
+</testng-results>

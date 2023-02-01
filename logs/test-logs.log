@@ -1,0 +1,35 @@
+17:10:52.830 [main] INFO  test.TestLogin - the hover over successfully done
+17:10:53.599 [main] INFO  test.TestLogin - sign in button successfully selected
+17:10:53.613 [main] INFO  test.TestLogin - title validation success
+17:10:53.735 [main] INFO  test.TestLogin - successfully typed in the email address
+17:10:54.129 [main] INFO  test.TestLogin - click continue button success
+17:10:54.171 [main] INFO  test.TestLogin - error message validation success
+23:53:16.581 [main] INFO  test.TestSearch - Tile validation success
+23:53:16.583 [main] INFO  test.TestSearch - Land to amazon webpage successful
+23:53:16.847 [main] INFO  pages.HomePage - the Books option successfully selected from the drop down
+23:53:21.244 [main] INFO  pages.HomePage - Item name type and enter success
+23:53:21.254 [main] INFO  test.TestSearch - java book search Tile validation success
+23:53:26.281 [main] INFO  test.TestSearch - Tite validation success
+23:53:26.282 [main] INFO  test.TestSearch - Land to amazon webpage successful
+23:53:26.436 [main] INFO  pages.HomePage - Item name type success
+23:53:30.621 [main] INFO  pages.HomePage - sign in button successfully selected
+23:53:30.630 [main] INFO  test.TestSearch - java book search Tile validation success
+23:53:36.008 [main] INFO  test.TestSearch - Tile validation success
+23:53:36.008 [main] INFO  test.TestSearch - Land to amazon webpage successful
+23:53:36.170 [main] INFO  pages.HomePage - Item name type success
+23:53:39.723 [main] INFO  pages.HomePage - sign in button successfully selected
+23:53:39.733 [main] INFO  test.TestSearch - java book search Tile validation success
+00:21:26.953 [main] INFO  pages.HomePage - the hover over menu success
+00:21:27.918 [main] INFO  pages.HomePage - click on the login button success
+00:21:27.932 [main] INFO  test.TestLogin - title validation success
+00:21:28.056 [main] INFO  pages.LoginPage - successfully typed in the email address
+00:21:28.344 [main] INFO  pages.LoginPage - click connect button success
+00:21:28.376 [main] INFO  test.TestLogin - error message validation success
+23:23:10.407 [main] INFO  pages.JqueryuiHomePage - Switch to Iframe success
+23:24:44.787 [main] INFO  pages.JqueryuiHomePage - Switch to Iframe success
+23:25:46.590 [main] INFO  pages.JqueryuiHomePage - Switch to Iframe success
+23:27:38.705 [main] INFO  pages.JqueryuiHomePage - Switch to Iframe success
+23:30:22.949 [main] INFO  pages.JqueryuiHomePage - Switch to Iframe success
+23:36:13.919 [main] INFO  pages.JqueryuiHomePage - Switch to Iframe success
+23:37:03.948 [main] INFO  pages.JqueryuiHomePage - Switch to Iframe success
+23:37:29.372 [main] INFO  pages.JqueryuiHomePage - Switch to Iframe success

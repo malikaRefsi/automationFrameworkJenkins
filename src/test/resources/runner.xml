@@ -18,12 +18,12 @@
     <test name="Amazon tests">
             <classes>
                 <class name="test.TestLogin"></class>
-<!--                <class name="test.TestSearch"></class>-->
-<!--                     <class name="practice.DragAndDrop"></class>-->
-<!--                <class name="practice.HandleFrame"></class>-->
-<!--                <class name="practice.HandleFrame"></class>-->
-<!--                <class name="practice.CheckBox"></class>-->
-<!--                <class name="practice.ElemmentIsDesplayed"></class>-->
+                <class name="test.TestSearch"></class>
+                     <class name="practice.DragAndDrop"></class>
+                <class name="practice.HandleFrame"></class>
+                <class name="practice.HandleFrame"></class>
+                <class name="practice.CheckBox"></class>
+                <class name="practice.ElemmentIsDesplayed"></class>
 <!--                <class name="practice.GetTextFromTable"></class>-->
 <!--                <class name="practice.HandleAllert"></class>-->
 <!--                <class name="practice.RadioButton"></class>-->
